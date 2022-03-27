@@ -28,3 +28,6 @@
 | 8         | H3k27me3                           | Ядерная ламина                                          | Heterochromatin     |
 | 9         | -                                  | Ядерная ламина                                          | Heterochromatin     |
 | 10        | H3k09me3                           | Ядерная ламина                                          | Heterochromatin     |
+
+Скрин после переименования:
+![Снимок экрана (100)](https://user-images.githubusercontent.com/56909634/160301290-496ef41a-c493-4113-8942-70fc33406e65.png)
