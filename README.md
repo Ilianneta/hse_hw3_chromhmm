@@ -12,6 +12,15 @@
 ![HepG2_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/56909634/160294830-f35af110-459e-4b46-a598-ef286f2c4de3.png)
 ![HepG2_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/56909634/160294833-45e344d8-caab-4109-8a51-e2880b207ce6.png)
 
-| Состояние | Гист. модификации | С чем ассоциировано | Эпигенетический тип |
-| ----------|:-----------------:|:-------------------:| -------------------:|
-| столбе    | выровнен впаво    | $              1600 | okiuygftcvbnjkjhgh  |
+| Состояние | Гист. модификации                  | С чем ассоциировано                                     | Эпигенетический тип |
+| ----------|:----------------------------------:|:-------------------------------------------------------:|---------------------|
+| 1         | H3k27me3                           | RefSeqGene, RefSeqTES                                   | Weak transcribed    |
+| 2         | H3k79me2                           | RefSeqGene                                              | Weak transcribed    |
+| 3         | H3k79me2, H3k04me1                 | RefSeqGene                                              | Weak transcribed    |
+| 4         | H3k04me1                           | RefSeqTES (слабо), RefSeqGene (еще слабее)              | Weak enhancer       |
+| 5         | H3k4me2, H3k9ac, H3k27ac, H3k04me1 | RefSeqTES, RefSeqGene (слабо)                           | Weak enhancer       |
+| 6         | H3k4me3, H3k4me2, H3k9ac, H3k27ac  | CpG-островки, RefSeqExon, RefSeqTES (слабее), RefSeqTSS | Active Promoter     |
+| 7         | H3k4me3, H3k4me2, H3k04me1         | CpG-островки (слабо), RefSeqTES (слабо)                 | Weak Promoter       |
+| 8         | H3k27me3                           | Ядерная ламина                                          | Heterochromatin     |
+| 9         | -                                  | Ядерная ламина                                          | Heterochromatin     |
+| 10        | H3k09me3                           | Ядерная ламина                                          | Heterochromatin     |
