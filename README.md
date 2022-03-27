@@ -12,6 +12,10 @@
 ![HepG2_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/56909634/160294830-f35af110-459e-4b46-a598-ef286f2c4de3.png)
 ![HepG2_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/56909634/160294833-45e344d8-caab-4109-8a51-e2880b207ce6.png)
 
+Скрин из genome.ucsc.edu:
+
+http://genome.ucsc.edu/
+
 | Состояние | Гист. модификации                  | С чем ассоциировано                                     | Эпигенетический тип |
 | ----------|:----------------------------------:|:-------------------------------------------------------:|---------------------|
 | 1         | H3k27me3                           | RefSeqGene, RefSeqTES                                   | Weak transcribed    |
